@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Tek It (Slowed)",
+  "base_artist": "Cafuné",
+  "createdAt": "2026-02-21T20:04:11.280593Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tek It - Slowed",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/01_Tek_It_-_Slowed_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tek It (Slowed)",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/02_Tek_It_(Slowed)_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cafuné - Tek It (Slowed) [Official Audio]",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/03_Cafuné_-_Tek_It_(Slowed)_[Official_Audio]_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tek It - Slowed",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/04_Tek_It_-_Slowed_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "cafuné - tek it [ slowed + reverb ] (lyrics)",
+      "artist": "slowed songs",
+      "has_synced": true,
+      "path": "select/05_cafuné_-_tek_it_[_slowed_+_reverb_]_(lyrics)_slowed_songs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "cafuné - tek it [ slowed   reverb ] (lyrics)",
+      "artist": "slowed songs",
+      "has_synced": true,
+      "path": "select/06_cafuné_-_tek_it_[_slowed_reverb_]_(lyrics)_slowed_songs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tek It (Slowed)",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/07_Tek_It_(Slowed)_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tek It (Slowed)",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/08_Tek_It_(Slowed)_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tek It Down",
+      "artist": "Teddybears feat. Rigo",
+      "has_synced": true,
+      "path": "select/09_Tek_It_Down_Teddybears_feat._Rigo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tek It Down (Feat. Rigo)",
+      "artist": "Teddybears",
+      "has_synced": true,
+      "path": "select/10_Tek_It_Down_(Feat._Rigo)_Teddybears.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tek It",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/11_Tek_It_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tek It",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/12_Tek_It_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tek It - Sped Up",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/13_Tek_It_-_Sped_Up_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tek It",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/14_Tek_It_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tek It (Sped Up)",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/15_Tek_It_(Sped_Up)_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tek It (Sped Up)",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/16_Tek_It_(Sped_Up)_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tek It (Sped Up Ver.)",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/17_Tek_It_(Sped_Up_Ver.)_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tek It To Them (Rum Ram)",
+      "artist": "QQ",
+      "has_synced": false,
+      "path": "select/18_Tek_It_To_Them_(Rum_Ram)_QQ.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Tek It",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/19_Tek_It_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Cafuné - Tek It",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/20_Cafuné_-_Tek_It_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Tek It",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/21_Tek_It_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Tek It (Sped Up)",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/22_Tek_It_(Sped_Up)_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Cafuné - Tek It (Sped Up) [Official Audio]",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/23_Cafuné_-_Tek_It_(Sped_Up)_[Official_Audio]_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Cafuné - Tek It (Official Lyric Video)",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/24_Cafuné_-_Tek_It_(Official_Lyric_Video)_CAFUNÉ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tek It",
+      "artist": "CAFUNE",
+      "has_synced": false,
+      "path": "select/pl_01_Tek_It_CAFUNE.txt"
+    }
+  ]
+}
